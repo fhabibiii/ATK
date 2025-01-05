@@ -19,10 +19,10 @@ Program ini dibuat untuk memenuhi tugas mata kuliah **Internet of Things (IoT) d
    ```
 
 ## Cara Menjalankan Program
-1. Simpan kode dalam file `main.py`.
+1. Simpan kode dalam file `Analisis Tingkat Kebisingan.py`.
 2. Jalankan program menggunakan perintah:
    ```bash
-   python main.py
+   python Analisis Tingkat Kebisingan.py
    ```
 3. Pilih file Excel yang berisi data kebisingan. File harus memiliki:
    - Nama sheet: `Amplitudes`
