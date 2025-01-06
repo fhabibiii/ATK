@@ -52,3 +52,6 @@ Program mengasumsikan struktur berikut pada file Excel:
 
 ## Lisensi
 Program ini dilisensikan di bawah [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html). Anda bebas untuk menggunakan, memodifikasi, dan mendistribusikan ulang program ini selama mengikuti ketentuan lisensi.
+
+---
+Dibuat dengan ❤ oleh **Faqihuddin Habibi** 🍉
